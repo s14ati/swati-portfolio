@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 48 48" width="48" height="48">
+  <defs>
+    <linearGradient id="reactGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#61DAFB"/>
+      <stop offset="100%" stop-color="#0099DD"/>
+    </linearGradient>
+    <linearGradient id="hubGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#00D8FF"/>
+      <stop offset="100%" stop-color="#8B5CF6"/>
+    </linearGradient>
+  </defs>
+
+  <!-- React Orbits -->
+  <g fill="none" stroke="url(#reactGrad)" stroke-width="2.6" stroke-linecap="round">
+    <ellipse cx="24" cy="24" rx="20" ry="7.8" transform="rotate(0 24 24)" opacity="0.9"/>
+    <ellipse cx="24" cy="24" rx="20" ry="7.8" transform="rotate(60 24 24)" opacity="0.9"/>
+    <ellipse cx="24" cy="24" rx="20" ry="7.8" transform="rotate(120 24 24)" opacity="0.9"/>
+  </g>
+
+  <!-- Central State Hub (Context Provider) -->
+  <circle cx="24" cy="24" r="8.5" fill="#090D16" stroke="url(#hubGrad)" stroke-width="2"/>
+  
+  <!-- Brackets { } symbol indicating Context State -->
+  <text x="24" y="28" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="11.5" font-weight="900" fill="#61DAFB" text-anchor="middle">{ }</text>
+
+  <!-- Connected Consumer State Nodes -->
+  <circle cx="8" cy="15" r="2.2" fill="#61DAFB"/>
+  <circle cx="40" cy="15" r="2.2" fill="#61DAFB"/>
+  <circle cx="24" cy="42" r="2.2" fill="#A855F7"/>
+</svg>
