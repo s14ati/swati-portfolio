@@ -102,7 +102,7 @@ function Hero() {
             </a>
 
             <a
-              href="/Swati_Gupta___Frontend developer.pdf"
+              href="/Swati_Gupta___Resume.pdf"
               target="_blank"
               rel="noopener noreferrer"
               className="px-7 py-3.5 rounded-full font-semibold text-gray-200 glass-panel-hover flex items-center gap-2 hover:text-white"

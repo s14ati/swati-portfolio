@@ -198,7 +198,7 @@ function Experience() {
                 Get In Touch
               </a>
               <a
-                href="/Swati_Gupta___Frontend developer.pdf"
+                href="/Swati_Gupta___Resume.pdf"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="px-6 py-2.5 rounded-full text-xs sm:text-sm font-semibold text-gray-300 glass-panel hover:text-white hover:border-gray-600 transition-all"

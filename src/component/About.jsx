@@ -240,7 +240,7 @@ function About() {
               </p>
             </div>
             <a
-              href="/Swati_Gupta___Frontend developer.pdf"
+              href="/Swati_Gupta___Resume.pdf"
               target="_blank"
               rel="noopener noreferrer"
               className="px-6 py-3 rounded-xl font-semibold text-white bg-gradient-to-r from-indigo-600 to-pink-600 hover:from-indigo-500 hover:to-pink-500 shadow-lg shadow-indigo-600/20 flex items-center gap-2 text-sm transition-all"
